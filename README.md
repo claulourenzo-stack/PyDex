@@ -36,7 +36,7 @@ PyDex applies the following concepts:
 - **Event handling:** Respond to button clicks and keyboard input.
 
 ![PyDex Demo](Pydex-demo.gif)
-
+![PyDex Demo](https://raw.githubusercontent.com/claulourenzo-stack/PyDex/main/Pydex-demo.gif)
 ## How to Run
 
 This is a desktop application. Download and run it locally on a computer with a graphical display.
