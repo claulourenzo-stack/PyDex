@@ -35,7 +35,6 @@ PyDex applies the following concepts:
 - **Loops:** Process Pokémon data, populate lists, and load animation frames.
 - **Event handling:** Respond to button clicks and keyboard input.
 
-![PyDex Demo](Pydex-demo.gif)
 ![PyDex Demo](https://raw.githubusercontent.com/claulourenzo-stack/PyDex/main/Pydex-demo.gif)
 ## How to Run
 
